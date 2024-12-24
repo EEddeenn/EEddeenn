@@ -1,5 +1,7 @@
 # 你好! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
 
+<img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
+
 ### I'm Shangren Lu, a high school student in Shanghai, China.
 
 My current research interests include microarchitecture, networking, parallel computing, distributed system and algebra.
