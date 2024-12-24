@@ -1,4 +1,4 @@
-# 你好! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
+# 你好! <img src="https://github.com/EEddeenn/EEddeenn/blob/main/Hi.gif" width="40px"> Hello! <img src="https://github.com/EEddeenn/EEddeenn/blob/main/Hi.gif" width="40px">
 
 <img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
 
