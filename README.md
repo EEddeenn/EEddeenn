@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
 
-### I'm Shangren Lu, a high school student in Shanghai, China.
+### I'm Shangren Lu, a ongoing freshmam of The University of Melbourne.
 
 My current research interests include microarchitecture, networking, parallel computing, distributed system and algebra.
 
