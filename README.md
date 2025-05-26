@@ -9,10 +9,11 @@ My current research interests include microarchitecture, networking, parallel co
 ---
 
 ## Reach me at
-- [我的中文主页](https://shangrenlu.cn)
-- [My english homepage](https://shangren.lu)
+- [我的中文主页](https://shangrenlu.cn/)
+- [My english homepage](https://shangren.lu/)
 
 ---
 
 ## Projects
-### [Under Maintenance](https://projects.shangren.lu)
+- [我的项目](https://projects.shangrenlu.cn/)
+- [My projects](https://projects.shangren.lu/)
