@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
 
-### I'm Shangren Lu, an upcoming freshmam of The University of Melbourne.
+### I'm Shangren Lu, an incoming freshmam of The University of Melbourne, Bachelor of Science.
 
 My current research interests include microarchitecture, networking, parallel computing, distributed system and algebra.
 
@@ -17,3 +17,13 @@ My current research interests include microarchitecture, networking, parallel co
 ## Projects
 - [我的项目](https://projects.shangrenlu.cn/)
 - [My projects](https://projects.shangren.lu/)
+
+---
+
+## Résumé
+- [我的简历](https://resume.shangrenlu.cn/)
+- [My Résumé](https://resume.shangren.lu/)
+
+---
+
+*生活模仿艺术 Life imitates art*
