@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
 
-### I'm Shangren Lu, an first-year B-Sci student at The University of Melbourne, intending to major in Mathematics and Statistics.
+### I'm Shangren Lu, a first-year B-Sci student at The University of Melbourne, intending to major in Mathematics and Statistics.
 
 My current research interests are microarchitecture, networking, parallel computing, distributed systems and category theory.
 
