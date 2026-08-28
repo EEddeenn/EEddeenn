@@ -2,9 +2,9 @@
 
 <img align="right" width="400" src="https://github.com/EEddeenn/EEddeenn/blob/main/shanghai.jpg" />
 
-### I'm Shangren Lu, a second-year B-Sci student at University of Melbourne, majoring in Mathematics and Statistics.
+### I'm Shangren Lu, a second-year B-Sci student at University of Melbourne, majoring in pure math.
 
-My current research interests are microarchitecture, networking, parallel computing, functional programming, software-defined radio and category theory.
+My current research interests are microarchitecture, signals intelligence and open-source intelligence.
 
 ---
 
