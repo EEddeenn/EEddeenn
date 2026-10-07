@@ -8,8 +8,7 @@ My current research interests are microarchitecture, signals intelligence and op
 
 ---
 
-## Reach me at
-- [My homepage](https://shangren.lu/)
+[My homepage](https://shangren.lu/)
 
 ---
 
