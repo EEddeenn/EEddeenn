@@ -13,14 +13,4 @@ My current research interests are microarchitecture, signals intelligence and op
 
 ---
 
-## Projects
-- [My projects](https://shangren.lu/projects)
-
----
-
-## Résumé
-- [My Résumé](https://shangren.lu/resume)
-
----
-
 *生活模仿艺术 Life imitates art*
